@@ -19,7 +19,7 @@ I’m an engineering student who’s obsessed with turning ideas into real-world
 ## 🔥 My Projects
 
 * ⚡ **Apartment Power Alert System**
-  Installed at the residence of **Dr. G.V.S.N.R.V. Prasad**, Director of PG Studies of SESHADRI RAO GUDLAVALLERU ENGINEERING COLLEGE
+  Installed at the residence of **Dr. G.V.S.N.R.V. Prasad**, Director of PG Studies of **SESHADRI RAO GUDLAVALLERU ENGINEERING COLLEGE**
 
   Helps residents save fuel by monitoring main power supply
 
@@ -81,8 +81,8 @@ I’m an engineering student who’s obsessed with turning ideas into real-world
 ## 📫 Let's Connect
 
 * 📧 [rabbunimerugumala@gmail.com](mailto:rabbunimerugumala@gmail.com)
-* [🌐 ] [GitHub](https://github.com/rabbunimerugumala)
-* [💼 ] [LinkedIn](https://www.linkedin.com/in/rabbunimerugumala)
+* 🌐 [GitHub](https://github.com/rabbunimerugumala)
+* 💼 [LinkedIn](https://www.linkedin.com/in/rabbunimerugumala)
 
 ---
 
