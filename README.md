@@ -20,6 +20,7 @@ I’m an engineering student who’s obsessed with turning ideas into real-world
 
 * ⚡ **Apartment Power Alert System**
   Installed at the residence of **Dr. G.V.S.N.R.V. Prasad**, Director of PG Studies of SESHADRI RAO GUDLAVALLERU ENGINEERING COLLEGE
+
   Helps residents save fuel by monitoring main power supply
 
 * 🌿 **AgroSense – Smart IoT Irrigation System**
@@ -35,10 +36,30 @@ I’m an engineering student who’s obsessed with turning ideas into real-world
 
 ## 👨‍💻 Tech Stack
 
-`Arduino` `NodeMCU (ESP8266)` `Blynk IoT` `C/C++` `Python`
-`Sensors & Modules` `Embedded Systems` `I2C LCD` `UART Communication`
-`Prototyping` `Project Documentation` `Software Development` `Web Technologies`
-&#x20;`Entrepreneurship` `Content Creation` `Business Strategy`
+### Hardware & IoT
+- Arduino
+- NodeMCU (ESP8266)
+- Sensors & Modules
+- I2C LCD
+- UART Communication
+- Prototyping
+
+### Software & Development
+- C/C++
+- Python
+- Embedded Systems
+- Software Development
+- Web Technologies
+
+### Cloud Platforms
+- Blynk IoT
+
+### Project Documentation
+- Clear, detailed, and professional documentation for all projects
+
+### Entrepreneurship & Business
+- Startup Building
+- Business Strategy
 
 ---
 
@@ -61,7 +82,7 @@ I’m an engineering student who’s obsessed with turning ideas into real-world
 
 * 📧 [rabbunimerugumala@gmail.com](mailto:rabbunimerugumala@gmail.com)
 * [🌐 ](https://github.com/rabbunimerugumala)[GitHub](https://github.com/rabbunimerugumala)
-* [💼 ](https://www.linkedin.com/in/your-profile-link)[LinkedIn](https://www.linkedin.com/in/your-profile-link) *(*[***(https://www.linkedin.com/in/rabbunimerugumala***](http://www.linkedin.com/in/rabbunimerugumala)*)*
+* [💼 ](https://www.linkedin.com/in/your-profile-link)[LinkedIn]([https://www.linkedin.com/in/your-profile-link](http://www.linkedin.com/in/rabbunimerugumala))
 
 ---
 
