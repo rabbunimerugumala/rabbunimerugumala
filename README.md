@@ -82,7 +82,7 @@ I’m an engineering student who’s obsessed with turning ideas into real-world
 
 * 📧 [rabbunimerugumala@gmail.com](mailto:rabbunimerugumala@gmail.com)
 * [🌐 ](https://github.com/rabbunimerugumala)[GitHub](https://github.com/rabbunimerugumala)
-* [💼 ](https://www.linkedin.com/in/your-profile-link)[LinkedIn]([https://www.linkedin.com/in/your-profile-link](http://www.linkedin.com/in/rabbunimerugumala))
+* [💼 ][LinkedIn](https://www.linkedin.com/in/rabbunimerugumala)
 
 ---
 
