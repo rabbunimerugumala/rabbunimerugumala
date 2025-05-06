@@ -81,8 +81,8 @@ I’m an engineering student who’s obsessed with turning ideas into real-world
 ## 📫 Let's Connect
 
 * 📧 [rabbunimerugumala@gmail.com](mailto:rabbunimerugumala@gmail.com)
-* [🌐 ](https://github.com/rabbunimerugumala)[GitHub](https://github.com/rabbunimerugumala)
-* [💼 ][LinkedIn](https://www.linkedin.com/in/rabbunimerugumala)
+* [🌐 ] [GitHub](https://github.com/rabbunimerugumala)
+* [💼 ] [LinkedIn](https://www.linkedin.com/in/rabbunimerugumala)
 
 ---
 
