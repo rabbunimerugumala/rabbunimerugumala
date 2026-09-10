@@ -189,7 +189,7 @@ https://linkedin.com/in/rabbunimerugumala
 [rabbuni144@gmail.com](mailto:rabbuni144@gmail.com)
 
 🌐 **Portfolio**  
-https://rabbunimerugumala-portfolio.vercel.app
+https://rabbuni.rcubix.com
 
 
 
